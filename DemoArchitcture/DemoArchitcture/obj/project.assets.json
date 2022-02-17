@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.csproj",
-      "projectName": "DemoArchitcture",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.csproj",
+      "projectUniqueName": "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.API.csproj",
+      "projectName": "DemoArchitcture.API",
+      "projectPath": "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.API.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\DemoArchitcture\\DemoArchitcture\\obj\\",
+      "outputPath": "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

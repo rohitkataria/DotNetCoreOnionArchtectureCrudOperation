@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OG6PS1Ah92w6gIc3PTasGKnNJxrIoidAXiOX6dETWSQ=",
+  "Source": "DemoArchitcture.API",
+  "BasePath": "_content/DemoArchitcture.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

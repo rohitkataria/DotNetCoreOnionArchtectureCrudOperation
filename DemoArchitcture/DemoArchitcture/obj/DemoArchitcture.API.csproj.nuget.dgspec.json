@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.csproj": {}
+    "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.API.csproj": {}
   },
   "projects": {
-    "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.csproj": {
+    "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.csproj",
-        "projectName": "DemoArchitcture",
-        "projectPath": "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.csproj",
+        "projectUniqueName": "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.API.csproj",
+        "projectName": "DemoArchitcture.API",
+        "projectPath": "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\DemoArchitcture.API.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
         "outputPath": "D:\\dotnetcore\\OnionArchitecture\\DemoArchitcture\\DemoArchitcture\\obj\\",
         "projectStyle": "PackageReference",
