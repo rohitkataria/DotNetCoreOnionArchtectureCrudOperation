@@ -1,0 +1,12 @@
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\bin\Debug\net6.0\DemoArchitecture.API.Models.deps.json
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\bin\Debug\net6.0\DemoArchitecture.API.Models.dll
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\bin\Debug\net6.0\ref\DemoArchitecture.API.Models.dll
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\bin\Debug\net6.0\DemoArchitecture.API.Models.pdb
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\obj\Debug\net6.0\DemoArchitecture.API.Models.csproj.AssemblyReference.cache
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\obj\Debug\net6.0\DemoArchitecture.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\obj\Debug\net6.0\DemoArchitecture.API.Models.AssemblyInfoInputs.cache
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\obj\Debug\net6.0\DemoArchitecture.API.Models.AssemblyInfo.cs
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\obj\Debug\net6.0\DemoArchitecture.API.Models.csproj.CoreCompileInputs.cache
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\obj\Debug\net6.0\DemoArchitecture.API.Models.dll
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\obj\Debug\net6.0\ref\DemoArchitecture.API.Models.dll
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Models\obj\Debug\net6.0\DemoArchitecture.API.Models.pdb

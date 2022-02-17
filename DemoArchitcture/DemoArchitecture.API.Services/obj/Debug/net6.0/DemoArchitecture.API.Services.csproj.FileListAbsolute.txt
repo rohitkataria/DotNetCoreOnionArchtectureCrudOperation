@@ -1,0 +1,17 @@
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\bin\Debug\net6.0\DemoArchitecture.API.Services.deps.json
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\bin\Debug\net6.0\DemoArchitecture.API.Services.dll
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\bin\Debug\net6.0\ref\DemoArchitecture.API.Services.dll
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\bin\Debug\net6.0\DemoArchitecture.API.Services.pdb
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\bin\Debug\net6.0\DemoArchitecture.API.Data.dll
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\bin\Debug\net6.0\DemoArchitecture.API.Models.dll
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\bin\Debug\net6.0\DemoArchitecture.API.Data.pdb
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\bin\Debug\net6.0\DemoArchitecture.API.Models.pdb
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\obj\Debug\net6.0\DemoArchitecture.API.Services.csproj.AssemblyReference.cache
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\obj\Debug\net6.0\DemoArchitecture.API.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\obj\Debug\net6.0\DemoArchitecture.API.Services.AssemblyInfoInputs.cache
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\obj\Debug\net6.0\DemoArchitecture.API.Services.AssemblyInfo.cs
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\obj\Debug\net6.0\DemoArchitecture.API.Services.csproj.CoreCompileInputs.cache
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\obj\Debug\net6.0\DemoArchitecture.API.Services.csproj.CopyComplete
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\obj\Debug\net6.0\DemoArchitecture.API.Services.dll
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\obj\Debug\net6.0\ref\DemoArchitecture.API.Services.dll
+D:\dotnetcore\OnionArchitecture\DemoArchitcture\DemoArchitecture.API.Services\obj\Debug\net6.0\DemoArchitecture.API.Services.pdb
