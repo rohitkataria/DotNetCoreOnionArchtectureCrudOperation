@@ -12,5 +12,7 @@ namespace DemoArchitecture.API.Services.IServices
         Task<StudentModel> GetStudent(int Id);
         Task<IEnumerable<StudentModel>> GetAllStudent();
         Task<StudentModel> AddStudent(StudentModel studentModel);
+        Task<bool> DeleteStudent(int id);
+        Task<StudentModel> UpdateStudent(StudentModel studentModel);
     }
 }

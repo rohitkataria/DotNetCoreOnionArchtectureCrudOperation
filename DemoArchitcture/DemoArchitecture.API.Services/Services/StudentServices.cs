@@ -1,11 +1,6 @@
 ﻿using DemoArchitecture.API.Data.IRepositories;
 using DemoArchitecture.API.Models;
 using DemoArchitecture.API.Services.IServices;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DemoArchitecture.API.Services.Services
 {
@@ -33,5 +28,15 @@ namespace DemoArchitecture.API.Services.Services
             return await studentRepository.AddStudent(studentModel);
         }
 
+        //Delete student by Id
+        public async Task<bool> DeleteStudent(int id)
+        {
+            return await studentRepository.DeleteStudent(id);
+        }
+
+        public Task<StudentModel> UpdateStudent(StudentModel studentModel)
+        {
+           return studentRepository.UpdateStudent(studentModel);
+        }
     }
 }

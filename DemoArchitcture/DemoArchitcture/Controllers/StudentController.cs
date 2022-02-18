@@ -56,6 +56,36 @@ namespace DemoArchitecture.API.Controllers
             return StatusCode(StatusCodes.Status400BadRequest, "Not Added");
         }
 
+        //Delete student by Id
+        [HttpDelete("{id:int}")]
+        public async Task<ActionResult<bool>> DeleteStudent(int id)
+        {
+            try
+            {   
+                  return await _studentServices.DeleteStudent(id);
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error is retreiving from database");
+            }
+        }
+
+        //Update Student Records
+        [HttpPut("Update student")]
+        public async Task<ActionResult<StudentModel>> UpdateStudent( StudentModel studentModel)
+        {
+            try
+            {
+               
+                return Ok( await _studentServices.UpdateStudent(studentModel));
+            }
+            catch (Exception )
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, "Error is retreiving from database");
+
+            }
+        }
+
 
     }
 }
